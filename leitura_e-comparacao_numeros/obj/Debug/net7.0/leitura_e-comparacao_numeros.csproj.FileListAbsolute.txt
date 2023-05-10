@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\bin\Debug\net7.0\leitura_e-comparacao_numeros.exe
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\bin\Debug\net7.0\leitura_e-comparacao_numeros.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\bin\Debug\net7.0\leitura_e-comparacao_numeros.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\bin\Debug\net7.0\leitura_e-comparacao_numeros.dll
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\bin\Debug\net7.0\leitura_e-comparacao_numeros.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.dll
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\refint\leitura_e-comparacao_numeros.dll
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\leitura_e-comparacao_numeros.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\leitura_e-comparacao_numeros\obj\Debug\net7.0\ref\leitura_e-comparacao_numeros.dll

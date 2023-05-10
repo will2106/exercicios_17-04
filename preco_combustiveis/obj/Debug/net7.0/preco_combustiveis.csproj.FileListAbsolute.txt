@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\bin\Debug\net7.0\preco_combustiveis.exe
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\bin\Debug\net7.0\preco_combustiveis.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\bin\Debug\net7.0\preco_combustiveis.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\bin\Debug\net7.0\preco_combustiveis.dll
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\bin\Debug\net7.0\preco_combustiveis.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.dll
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\refint\preco_combustiveis.dll
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\preco_combustiveis.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\preco_combustiveis\obj\Debug\net7.0\ref\preco_combustiveis.dll

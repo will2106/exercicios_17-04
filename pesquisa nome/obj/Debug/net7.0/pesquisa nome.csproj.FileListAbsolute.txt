@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\bin\Debug\net7.0\pesquisa nome.exe
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\bin\Debug\net7.0\pesquisa nome.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\bin\Debug\net7.0\pesquisa nome.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\bin\Debug\net7.0\pesquisa nome.dll
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\bin\Debug\net7.0\pesquisa nome.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.dll
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\refint\pesquisa nome.dll
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\pesquisa nome.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\pesquisa nome\obj\Debug\net7.0\ref\pesquisa nome.dll
